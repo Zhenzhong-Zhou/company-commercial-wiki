@@ -3,7 +3,7 @@ id: TERM-SOFTGEL
 title_en: Softgel
 title_zh: 软胶囊
 page_type: term
-status: pending_confirmation
+status: current
 canonical_language: en
 supported_languages: [en, zh]
 updated_at: 2026-04-22
@@ -71,6 +71,8 @@ Softgel is a dosage-form term used for soft capsule products. In this wiki, it s
 ## Notes
 - literal translation: 软胶囊
 - business rewrite: softgel dosage form
+- status note: Current for terminology normalization only.
+- review behavior: Human review is not required for the basic term mapping; product-specific form claims and absorption claims remain source-linked and review-sensitive.
 - risk notes: Low terminology risk; claims attached to softgel remain review-sensitive.
 
 ## Source Map

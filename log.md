@@ -58,3 +58,8 @@ This file records meaningful repository events:
 
 ## 2026-04-22
 - Added source notes and term registry pages, then linked source, product, pricing, and term pages for graph readiness.
+- Normalized `logic/LINT.md`, clarified D3/K2 price evidence as non-current pending evidence, and aligned low-risk dosage-form term review behavior.
+- Strengthened graph links across source registry, product pages, pricing evidence, and high-risk term entries without promoting new facts.
+- Populated exact `.schema.yaml` files and aligned schema enum/page-type definitions for source notes and term entries.
+- Verified listed term registry pages against `term_entry` schema; no additional term-page changes were required.
+- Made Astaxanthin Plus and D3/K2 product links symmetric where supported by shared deck evidence.

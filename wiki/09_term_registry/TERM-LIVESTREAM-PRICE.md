@@ -14,6 +14,9 @@ related_pages:
   - "[[SRC-PG-ASTAXANTHIN-CN-CARD]]"
   - "[[SRC-PG-UBIQUINOL-CN-CARD]]"
   - "[[SRC-WIDE-BONE-CN-CARD]]"
+  - "[[PROD-ASTAXANTHIN-PLUS]]"
+  - "[[PROD-UBIQUINOL]]"
+  - "[[PROD-D3-K2-CA-MG-ZN]]"
   - "[[PRICE-D3-K2-CA-MG-ZN]]"
 tags: [term, pricing, ecommerce, livestream, bilingual, native-review]
 ---
@@ -75,6 +78,11 @@ Livestream Price is a channel- and campaign-sensitive price shown in sales-card 
 - literal translation: 直播价
 - business rewrite: live-commerce campaign price
 - risk notes: Pricing is high risk and requires fresh verification.
+
+## Graph Links
+- Source notes with livestream-price evidence: [[SRC-PG-ASTAXANTHIN-CN-CARD]], [[SRC-PG-UBIQUINOL-CN-CARD]], [[SRC-WIDE-BONE-CN-CARD]]
+- Product pages connected through source evidence: [[PROD-ASTAXANTHIN-PLUS]], [[PROD-UBIQUINOL]], [[PROD-D3-K2-CA-MG-ZN]]
+- Normalized pricing page: [[PRICE-D3-K2-CA-MG-ZN]]
 
 ## Source Map
 - [[SRC-PG-ASTAXANTHIN-CN-CARD]]: PG加拿大品牌天然复合虾青素（plus）头部手卡.pptx

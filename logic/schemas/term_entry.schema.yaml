@@ -21,7 +21,7 @@ required_frontmatter:
 required_values:
   page_type:
     allowed_values:
-      - translation
+      - term
 
   canonical_language:
     allowed_values:
@@ -46,7 +46,7 @@ field_rules:
     type: enum
     required: true
     allowed_values:
-      - translation
+      - term
 
   canonical_language:
     type: enum
@@ -146,7 +146,7 @@ global_rules:
   - High-risk customer-facing wording may require native review.
 
 lint_expectations:
-  - page_type should be translation
+  - page_type should be term
   - canonical_language should be en
   - canonical English term should exist
   - preferred Chinese translation should exist when the term is used bilingually

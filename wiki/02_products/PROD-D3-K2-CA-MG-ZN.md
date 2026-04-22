@@ -16,6 +16,7 @@ source_files:
 related_pages:
   - "[[SRC-WIDE-BONE-CN-CARD]]"
   - "[[SRC-WIDE-DECK-EN]]"
+  - "[[PROD-ASTAXANTHIN-PLUS]]"
   - "[[PRICE-D3-K2-CA-MG-ZN]]"
   - "[[TERM-NPN]]"
   - "[[TERM-RECOMMENDED-USE]]"
@@ -113,6 +114,13 @@ WIDE NATURALS D3 + K2 + Calcium + Magnesium + Zinc is listed in the source card 
 - 每 2 粒双甘氨酸螯合钙 790mg 与来源中 "实测 820mg / 2 粒" 如何解释？
 - 单粒成分页中钙 410mg、镁 210mg、锌 25mg 与每 2 粒营养成分表是否为同一批次、四舍五入或不同检测口径？
 - "0 添加"、吸收率 90%+、降低结石风险等表达是否有可引用证据？
+
+## Graph Links
+- Primary source note: [[SRC-WIDE-BONE-CN-CARD]]
+- Secondary source note: [[SRC-WIDE-DECK-EN]]
+- Related product page through shared deck evidence: [[PROD-ASTAXANTHIN-PLUS]]
+- Pricing page: [[PRICE-D3-K2-CA-MG-ZN]]
+- Shared term pages: [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-TABLET]], [[TERM-LIVESTREAM-PRICE]]
 
 ## Source Map
 - [[SRC-WIDE-BONE-CN-CARD]]: WideNaturals加拿大五合一维骨力头部手卡.pptx

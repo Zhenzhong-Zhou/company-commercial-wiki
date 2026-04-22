@@ -15,6 +15,8 @@ source_files:
   - PG加拿大品牌第四代共晶还原性辅酶Q10头部手卡.pptx
 related_pages:
   - "[[SRC-PG-UBIQUINOL-CN-CARD]]"
+  - "[[SRC-PG-PRODUCT-SHEET-EN]]"
+  - "[[PROD-ASTAXANTHIN-PLUS]]"
   - "[[TERM-NPN]]"
   - "[[TERM-RECOMMENDED-USE]]"
   - "[[TERM-SUGGESTED-USE]]"
@@ -106,6 +108,12 @@ PHYTO-GENIOUS Ubiquinol is listed in the source card as a Canada-made 60-softgel
 - 36 倍与 38.3 倍溶出度应以哪个数据为准，测试条件是什么？
 - 4.5 倍吸收效率是否有可引用的研究、检测报告或内部验证材料？
 - 空腹服用和心血管健康相关英文话术是否已有合规批准版本？
+
+## Graph Links
+- Primary source note: [[SRC-PG-UBIQUINOL-CN-CARD]]
+- Extraction-limited related source: [[SRC-PG-PRODUCT-SHEET-EN]]
+- Related product page: [[PROD-ASTAXANTHIN-PLUS]]
+- Shared term pages: [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-SOFTGEL]], [[TERM-LIVESTREAM-PRICE]]
 
 ## Source Map
 - [[SRC-PG-UBIQUINOL-CN-CARD]]: PG加拿大品牌第四代共晶还原性辅酶Q10头部手卡.pptx

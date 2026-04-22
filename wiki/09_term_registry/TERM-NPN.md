@@ -16,7 +16,10 @@ related_pages:
   - "[[SRC-PG-UBIQUINOL-CN-CARD]]"
   - "[[SRC-WIDE-BONE-CN-CARD]]"
   - "[[PROD-ASTAXANTHIN-PLUS]]"
+  - "[[PROD-UBIQUINOL]]"
   - "[[PROD-D3-K2-CA-MG-ZN]]"
+  - "[[TERM-RECOMMENDED-USE]]"
+  - "[[TERM-SUGGESTED-USE]]"
 tags: [term, compliance, certification, bilingual, native-review]
 ---
 
@@ -77,6 +80,11 @@ NPN 在本资料库中作为加拿大天然保健品相关编号处理。它可�
 - literal translation: Natural Product Number / 天然保健品编号
 - business rewrite: Canadian natural health product number
 - risk notes: Compliance-sensitive and customer-facing high risk.
+
+## Graph Links
+- Source notes: [[SRC-WIDE-DECK-EN]], [[SRC-PG-ASTAXANTHIN-CN-CARD]], [[SRC-PG-UBIQUINOL-CN-CARD]], [[SRC-WIDE-BONE-CN-CARD]]
+- Product pages: [[PROD-ASTAXANTHIN-PLUS]], [[PROD-UBIQUINOL]], [[PROD-D3-K2-CA-MG-ZN]]
+- Related use terms: [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]]
 
 ## Source Map
 - [[SRC-WIDE-DECK-EN]]: WIDE NATURALS DECK-EN.pptx

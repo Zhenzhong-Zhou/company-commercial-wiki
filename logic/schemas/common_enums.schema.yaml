@@ -32,10 +32,12 @@ enums:
       - overview
       - registry
       - source
+      - source_note
       - product
       - material
       - marketing
       - translation
+      - term
       - pricing
       - inquiry_pattern
       - reply_template

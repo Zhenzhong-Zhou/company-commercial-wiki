@@ -38,6 +38,11 @@
 - `wiki/06_pricing/`
 - [[PRICE-D3-K2-CA-MG-ZN]]
 
+## Graph Hubs
+- Source registry hub: [[source_registry]]
+- PG product cluster: [[SRC-PG-ASTAXANTHIN-CN-CARD]], [[SRC-PG-UBIQUINOL-CN-CARD]], [[SRC-PG-PRODUCT-SHEET-EN]], [[PROD-ASTAXANTHIN-PLUS]], [[PROD-UBIQUINOL]], [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-LIVESTREAM-PRICE]]
+- WIDE product and pricing cluster: [[SRC-WIDE-DECK-EN]], [[SRC-WIDE-BONE-CN-CARD]], [[PROD-D3-K2-CA-MG-ZN]], [[PRICE-D3-K2-CA-MG-ZN]], [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-LIVESTREAM-PRICE]]
+
 ## Inquiry Patterns
 - `wiki/07_inquiry_patterns/`
 

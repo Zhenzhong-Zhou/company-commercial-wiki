@@ -3,7 +3,7 @@ id: TERM-TABLET
 title_en: Tablet
 title_zh: 片剂
 page_type: term
-status: pending_confirmation
+status: current
 canonical_language: en
 supported_languages: [en, zh]
 updated_at: 2026-04-22
@@ -71,6 +71,8 @@ Tablet is a dosage-form term used for compressed or tablet-form products. In thi
 ## Notes
 - literal translation: 片剂
 - business rewrite: tablet dosage form
+- status note: Current for terminology normalization only.
+- review behavior: Human review is not required for the basic term mapping; product-specific form claims and stability or efficacy claims remain source-linked and review-sensitive.
 - risk notes: Low terminology risk; stability claims remain review-sensitive.
 
 ## Source Map

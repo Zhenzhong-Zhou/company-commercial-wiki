@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# JetBrains
+.idea/
+
+# Obsidian local UI state
+.obsidian/workspace.json
+.obsidian/graph.json
+
+# Optional: local plugin/cache state if you do not want machine-specific files
+.obsidian/cache/
+.obsidian/workspace-mobile.json
+
+# Temp / backup files
+*.tmp
+*.bak

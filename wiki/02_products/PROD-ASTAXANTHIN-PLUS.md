@@ -15,7 +15,10 @@ source_files:
   - PG加拿大品牌天然复合虾青素（plus）头部手卡.pptx
 related_pages:
   - "[[SRC-PG-ASTAXANTHIN-CN-CARD]]"
+  - "[[SRC-PG-PRODUCT-SHEET-EN]]"
   - "[[SRC-WIDE-DECK-EN]]"
+  - "[[PROD-UBIQUINOL]]"
+  - "[[PROD-D3-K2-CA-MG-ZN]]"
   - "[[TERM-NPN]]"
   - "[[TERM-RECOMMENDED-USE]]"
   - "[[TERM-SUGGESTED-USE]]"
@@ -107,6 +110,14 @@ Astaxanthin Plus is listed in the source card as a Canada-made PHYTO-GENIOUS sup
 - NPN 80141523 是否可在加拿大卫生部数据库中核验？
 - 10% 纯度、128 项专利、CO2 超临界萃取等描述对应成品、原料还是供应商？
 - 直播价格是否仅限特定平台、档期或活动？
+
+## Graph Links
+- Primary source note: [[SRC-PG-ASTAXANTHIN-CN-CARD]]
+- Secondary source note: [[SRC-WIDE-DECK-EN]]
+- Extraction-limited related source: [[SRC-PG-PRODUCT-SHEET-EN]]
+- Related product page: [[PROD-UBIQUINOL]]
+- Related product page through shared deck evidence: [[PROD-D3-K2-CA-MG-ZN]]
+- Shared term pages: [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-LIVESTREAM-PRICE]]
 
 ## Source Map
 - [[SRC-PG-ASTAXANTHIN-CN-CARD]]: PG加拿大品牌天然复合虾青素（plus）头部手卡.pptx

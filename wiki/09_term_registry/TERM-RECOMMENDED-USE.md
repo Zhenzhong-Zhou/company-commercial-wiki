@@ -11,10 +11,14 @@ review_required: true
 native_review_required: true
 source_ids: [SRC-PG-ASTAXANTHIN-CN-CARD, SRC-PG-UBIQUINOL-CN-CARD, SRC-WIDE-BONE-CN-CARD]
 related_pages:
+  - "[[SRC-PG-ASTAXANTHIN-CN-CARD]]"
+  - "[[SRC-PG-UBIQUINOL-CN-CARD]]"
+  - "[[SRC-WIDE-BONE-CN-CARD]]"
   - "[[PROD-ASTAXANTHIN-PLUS]]"
   - "[[PROD-UBIQUINOL]]"
   - "[[PROD-D3-K2-CA-MG-ZN]]"
   - "[[TERM-SUGGESTED-USE]]"
+  - "[[TERM-NPN]]"
 tags: [term, compliance, recommended-use, bilingual, native-review]
 ---
 
@@ -74,6 +78,11 @@ Recommended Use means the intended purpose or benefit wording shown in source ma
 - literal translation: 推荐用途
 - business rewrite: intended product purpose
 - risk notes: High-risk customer-facing health language.
+
+## Graph Links
+- Source notes: [[SRC-PG-ASTAXANTHIN-CN-CARD]], [[SRC-PG-UBIQUINOL-CN-CARD]], [[SRC-WIDE-BONE-CN-CARD]]
+- Product pages: [[PROD-ASTAXANTHIN-PLUS]], [[PROD-UBIQUINOL]], [[PROD-D3-K2-CA-MG-ZN]]
+- Related terms: [[TERM-SUGGESTED-USE]], [[TERM-NPN]]
 
 ## Source Map
 - [[SRC-PG-ASTAXANTHIN-CN-CARD]]: PG加拿大品牌天然复合虾青素（plus）头部手卡.pptx
