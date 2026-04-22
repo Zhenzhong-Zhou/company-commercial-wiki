@@ -19,6 +19,7 @@ related_pages:
   - "[[SRC-WIDE-DECK-EN]]"
   - "[[PROD-UBIQUINOL]]"
   - "[[PROD-D3-K2-CA-MG-ZN]]"
+  - "[[PRICE-ASTAXANTHIN-PLUS]]"
   - "[[TERM-NPN]]"
   - "[[TERM-RECOMMENDED-USE]]"
   - "[[TERM-SUGGESTED-USE]]"
@@ -104,7 +105,7 @@ Astaxanthin Plus is listed in the source card as a Canada-made PHYTO-GENIOUS sup
 ## Internal Notes (ZH)
 - 可作为内部产品资料起点，但当前证据来自营销手卡，不应直接升级为正式标签或合规话术。
 - 抗氧化倍数、认证对比、抗衰和美白相关表达均属于高风险营销话术，需要人工审核。
-- 价格信息存在于源文件中，但未在本产品页归一化为当前价格。
+- 价格证据已单独记录在 [[PRICE-ASTAXANTHIN-PLUS]]，但不得视为当前报价。
 
 ## Open Questions
 - NPN 80141523 是否可在加拿大卫生部数据库中核验？
@@ -117,9 +118,11 @@ Astaxanthin Plus is listed in the source card as a Canada-made PHYTO-GENIOUS sup
 - Extraction-limited related source: [[SRC-PG-PRODUCT-SHEET-EN]]
 - Related product page: [[PROD-UBIQUINOL]]
 - Related product page through shared deck evidence: [[PROD-D3-K2-CA-MG-ZN]]
+- Pricing page: [[PRICE-ASTAXANTHIN-PLUS]]
 - Shared term pages: [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-LIVESTREAM-PRICE]]
 
 ## Source Map
 - [[SRC-PG-ASTAXANTHIN-CN-CARD]]: PG加拿大品牌天然复合虾青素（plus）头部手卡.pptx
-- [[SRC-WIDE-DECK-EN]]: WIDE NATURALS DECK-EN.pptx
+- [[SRC-WIDE-DECK-EN]]: WIDE NATURALS DECK-ENpptx.pptx
+- Related pricing page: [[PRICE-ASTAXANTHIN-PLUS]]
 - Related term pages: [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-LIVESTREAM-PRICE]]

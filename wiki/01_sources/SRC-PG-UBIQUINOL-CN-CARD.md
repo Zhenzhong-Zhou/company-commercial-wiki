@@ -21,6 +21,7 @@ source_files:
   - PG加拿大品牌第四代共晶还原性辅酶Q10头部手卡.pptx
 linked_pages:
   - "[[PROD-UBIQUINOL]]"
+  - "[[PRICE-UBIQUINOL]]"
   - "[[TERM-NPN]]"
   - "[[TERM-RECOMMENDED-USE]]"
   - "[[TERM-SUGGESTED-USE]]"
@@ -94,6 +95,13 @@ This Chinese sales card presents PHYTO-GENIOUS Ubiquinol as a Canada-made 60-sof
 - Confirm whether 4.5x absorption efficiency has approved evidence.
 - Confirm whether empty-stomach use and cardiovascular health language are approved for customer-facing English.
 
+## Recommended Wiki Updates
+- Create / update product page: [[PROD-UBIQUINOL]]
+- Create / update pricing page: [[PRICE-UBIQUINOL]]
+- Create / update term entry: [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-SOFTGEL]], [[TERM-LIVESTREAM-PRICE]]
+- Create / update marketing page: future update recommended
+- Create / update inquiry pattern: not required in this run
+
 ## Review
 - Review required: true
 - Review reason: product facts come from a marketing hand card; technology, absorption, health, certification, and pricing claims are high risk.
@@ -102,4 +110,5 @@ This Chinese sales card presents PHYTO-GENIOUS Ubiquinol as a Canada-made 60-sof
 ## Source Map
 - PG加拿大品牌第四代共晶还原性辅酶Q10头部手卡.pptx
 - Related product page: [[PROD-UBIQUINOL]]
+- Related pricing page: [[PRICE-UBIQUINOL]]
 - Related term pages: [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-SOFTGEL]], [[TERM-LIVESTREAM-PRICE]]

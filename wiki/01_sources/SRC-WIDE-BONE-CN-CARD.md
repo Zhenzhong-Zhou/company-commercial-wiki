@@ -90,6 +90,13 @@ See [[PRICE-D3-K2-CA-MG-ZN]] for normalized price evidence from this source.
 - Confirm whether platform prices are current, campaign-specific, or historical.
 - Confirm whether bone-health, absorption, allergen-free, and certification claims have approved evidence.
 
+## Recommended Wiki Updates
+- Create / update product page: [[PROD-D3-K2-CA-MG-ZN]]
+- Create / update pricing page: [[PRICE-D3-K2-CA-MG-ZN]]
+- Create / update term entry: [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-TABLET]], [[TERM-LIVESTREAM-PRICE]]
+- Create / update marketing page: future update recommended only after claim review.
+- Create / update inquiry pattern: not required in this run.
+
 ## Review
 - Review required: true
 - Review reason: product facts come from a marketing hand card; pricing, certification, and health claims are high risk.

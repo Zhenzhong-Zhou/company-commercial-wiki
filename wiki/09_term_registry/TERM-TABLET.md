@@ -76,5 +76,5 @@ Tablet is a dosage-form term used for compressed or tablet-form products. In thi
 - risk notes: Low terminology risk; stability claims remain review-sensitive.
 
 ## Source Map
-- [[SRC-WIDE-DECK-EN]]: WIDE NATURALS DECK-EN.pptx
+- [[SRC-WIDE-DECK-EN]]: WIDE NATURALS DECK-ENpptx.pptx
 - [[SRC-WIDE-BONE-CN-CARD]]: WideNaturals加拿大五合一维骨力头部手卡.pptx

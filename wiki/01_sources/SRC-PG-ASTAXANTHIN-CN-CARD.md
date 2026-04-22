@@ -22,6 +22,7 @@ source_files:
   - PG加拿大品牌天然复合虾青素（plus）头部手卡.pptx
 linked_pages:
   - "[[PROD-ASTAXANTHIN-PLUS]]"
+  - "[[PRICE-ASTAXANTHIN-PLUS]]"
   - "[[TERM-NPN]]"
   - "[[TERM-RECOMMENDED-USE]]"
   - "[[TERM-SUGGESTED-USE]]"
@@ -110,7 +111,7 @@ This sales hand card presents PHYTO-GENIOUS Astaxanthin Plus as a Canada-made 60
 
 ## Recommended Wiki Updates
 - Create / update product page: [[PROD-ASTAXANTHIN-PLUS]]
-- Create / update pricing page: not created in this scoped run
+- Create / update pricing page: [[PRICE-ASTAXANTHIN-PLUS]]
 - Create / update term entry: [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-LIVESTREAM-PRICE]]
 - Create / update marketing page: future update recommended
 - Create / update inquiry pattern: not required in this run
@@ -123,4 +124,5 @@ This sales hand card presents PHYTO-GENIOUS Astaxanthin Plus as a Canada-made 60
 ## Source Map
 - PG加拿大品牌天然复合虾青素（plus）头部手卡.pptx
 - Related product page: [[PROD-ASTAXANTHIN-PLUS]]
+- Related pricing page: [[PRICE-ASTAXANTHIN-PLUS]]
 - Related term pages: [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-LIVESTREAM-PRICE]]

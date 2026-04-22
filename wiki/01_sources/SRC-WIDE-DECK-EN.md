@@ -19,7 +19,7 @@ review_required: true
 native_review_required: true
 source_ids: []
 source_files:
-  - WIDE NATURALS DECK-EN.pptx
+  - WIDE NATURALS DECK-ENpptx.pptx
 linked_pages:
   - "[[PROD-ASTAXANTHIN-PLUS]]"
   - "[[PROD-D3-K2-CA-MG-ZN]]"
@@ -32,7 +32,7 @@ tags: [source, brand, product, marketing, certification, wide-naturals]
 # WIDE NATURALS Deck EN
 
 ## File Identity
-- File name: WIDE NATURALS DECK-EN.pptx
+- File name: WIDE NATURALS DECK-ENpptx.pptx
 - Source reference: exact uploaded file name only.
 - Source type: brand_source
 - Source status: pending_confirmation
@@ -68,6 +68,10 @@ This deck introduces WIDE Naturals as a Canadian nutrition company and presents 
 - Brand claims about science-led development, compliance, quality, laboratory support, ambassador endorsement, and certifications are marketing evidence unless independently verified.
 - Product benefit claims, including cardiovascular, immune, brain, skin, anti-aging, and bone-health claims, must not be treated as validated fact from this deck alone.
 
+## Pricing Evidence
+- None extracted from this source note.
+- This deck is not currently used as pricing evidence.
+
 ## Translation Evidence
 - NPN: Natural Product Number / 加拿大天然保健品编号
 - Softgel: softgel / 软胶囊
@@ -78,12 +82,19 @@ This deck introduces WIDE Naturals as a Canadian nutrition company and presents 
 - Confirm NPN numbers through official regulator evidence before customer-facing use.
 - Confirm whether product slides represent final labels, campaign copy, or internal sales copy.
 
+## Recommended Wiki Updates
+- Create / update product page: [[PROD-ASTAXANTHIN-PLUS]], [[PROD-D3-K2-CA-MG-ZN]]
+- Create / update pricing page: not supported by this source note.
+- Create / update term entry: [[TERM-NPN]], [[TERM-SOFTGEL]], [[TERM-TABLET]]
+- Create / update marketing page: future update recommended only after brand and certification claim review.
+- Create / update inquiry pattern: not required in this run.
+
 ## Review
 - Review required: true
 - Review reason: brand, certification, product benefit, and customer-facing English claims require verification.
 - Native review required for customer-facing English: true
 
 ## Source Map
-- WIDE NATURALS DECK-EN.pptx
+- WIDE NATURALS DECK-ENpptx.pptx
 - Related product pages: [[PROD-ASTAXANTHIN-PLUS]], [[PROD-D3-K2-CA-MG-ZN]]
 - Related term pages: [[TERM-NPN]], [[TERM-SOFTGEL]], [[TERM-TABLET]]

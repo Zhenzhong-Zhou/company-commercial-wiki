@@ -76,5 +76,5 @@ Softgel is a dosage-form term used for soft capsule products. In this wiki, it s
 - risk notes: Low terminology risk; claims attached to softgel remain review-sensitive.
 
 ## Source Map
-- [[SRC-WIDE-DECK-EN]]: WIDE NATURALS DECK-EN.pptx
+- [[SRC-WIDE-DECK-EN]]: WIDE NATURALS DECK-ENpptx.pptx
 - [[SRC-PG-UBIQUINOL-CN-CARD]]: PG加拿大品牌第四代共晶还原性辅酶Q10头部手卡.pptx

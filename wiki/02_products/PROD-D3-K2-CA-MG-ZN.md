@@ -124,6 +124,6 @@ WIDE NATURALS D3 + K2 + Calcium + Magnesium + Zinc is listed in the source card 
 
 ## Source Map
 - [[SRC-WIDE-BONE-CN-CARD]]: WideNaturals加拿大五合一维骨力头部手卡.pptx
-- [[SRC-WIDE-DECK-EN]]: WIDE NATURALS DECK-EN.pptx
+- [[SRC-WIDE-DECK-EN]]: WIDE NATURALS DECK-ENpptx.pptx
 - Related pricing page: [[PRICE-D3-K2-CA-MG-ZN]]
 - Related term pages: [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-TABLET]], [[TERM-LIVESTREAM-PRICE]]

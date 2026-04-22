@@ -17,6 +17,8 @@ related_pages:
   - "[[PROD-ASTAXANTHIN-PLUS]]"
   - "[[PROD-UBIQUINOL]]"
   - "[[PROD-D3-K2-CA-MG-ZN]]"
+  - "[[PRICE-ASTAXANTHIN-PLUS]]"
+  - "[[PRICE-UBIQUINOL]]"
   - "[[PRICE-D3-K2-CA-MG-ZN]]"
 tags: [term, pricing, ecommerce, livestream, bilingual, native-review]
 ---
@@ -82,10 +84,12 @@ Livestream Price is a channel- and campaign-sensitive price shown in sales-card 
 ## Graph Links
 - Source notes with livestream-price evidence: [[SRC-PG-ASTAXANTHIN-CN-CARD]], [[SRC-PG-UBIQUINOL-CN-CARD]], [[SRC-WIDE-BONE-CN-CARD]]
 - Product pages connected through source evidence: [[PROD-ASTAXANTHIN-PLUS]], [[PROD-UBIQUINOL]], [[PROD-D3-K2-CA-MG-ZN]]
-- Normalized pricing page: [[PRICE-D3-K2-CA-MG-ZN]]
+- Normalized pricing pages: [[PRICE-ASTAXANTHIN-PLUS]], [[PRICE-UBIQUINOL]], [[PRICE-D3-K2-CA-MG-ZN]]
 
 ## Source Map
 - [[SRC-PG-ASTAXANTHIN-CN-CARD]]: PG加拿大品牌天然复合虾青素（plus）头部手卡.pptx
 - [[SRC-PG-UBIQUINOL-CN-CARD]]: PG加拿大品牌第四代共晶还原性辅酶Q10头部手卡.pptx
 - [[SRC-WIDE-BONE-CN-CARD]]: WideNaturals加拿大五合一维骨力头部手卡.pptx
-- [[PRICE-D3-K2-CA-MG-ZN]]
+- Normalized pricing page: [[PRICE-ASTAXANTHIN-PLUS]]
+- Normalized pricing page: [[PRICE-UBIQUINOL]]
+- Normalized pricing page: [[PRICE-D3-K2-CA-MG-ZN]]

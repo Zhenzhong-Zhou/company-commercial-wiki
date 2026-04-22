@@ -29,7 +29,7 @@ tags: [pricing, wide-naturals, bone-health, livestream, source-linked, native-re
 ## Pricing Scope
 - Product: WIDE NATURALS 五合一维骨力 / D3 + K2 + Ca + Mg + Zn
 - Market: China live-commerce / official flagship channels; Canada Amazon comparison appears in source
-- Currency: CNY / RMB
+- Currency: RMB
 - Channel: Douyin, Kuaishou, Tmall, Amazon Canada comparison, [[TERM-LIVESTREAM-PRICE|livestream price]]
 - Source status: pending_confirmation
 
@@ -43,24 +43,24 @@ tags: [pricing, wide-naturals, bone-health, livestream, source-linked, native-re
 ## Price Evidence Rows
 | date_observed | channel | package | price_type | price | currency | source_id | status | confidence | notes |
 |---|---|---|---|---:|---|---|---|---|---|
-| not stated | source card main price block | 90 tablets x 1 bottle | retail price | 298 | CNY | SRC-WIDE-BONE-CN-CARD | pending_confirmation | low | non-current evidence only; source card also lists livestream price |
-| not stated | source card main price block | 90 tablets x 1 bottle | [[TERM-LIVESTREAM-PRICE|livestream price]] | 179 | CNY | SRC-WIDE-BONE-CN-CARD | pending_confirmation | low | non-current evidence only; campaign/platform context not stated |
-| not stated | source card main price block | 90 tablets x 2 bottles | retail price | 520 | CNY | SRC-WIDE-BONE-CN-CARD | pending_confirmation | low | non-current evidence only; source card also lists livestream price |
-| not stated | source card main price block | 90 tablets x 2 bottles | [[TERM-LIVESTREAM-PRICE|livestream price]] | 319 | CNY | SRC-WIDE-BONE-CN-CARD | pending_confirmation | low | non-current evidence only; campaign/platform context not stated |
-| not stated | source card main price block | 90 tablets x 4 bottles | retail price | 900 | CNY | SRC-WIDE-BONE-CN-CARD | pending_confirmation | low | non-current evidence only; source card also lists livestream price |
-| not stated | source card main price block | 90 tablets x 4 bottles | [[TERM-LIVESTREAM-PRICE|livestream price]] | 529 | CNY | SRC-WIDE-BONE-CN-CARD | pending_confirmation | low | non-current evidence only; campaign/platform context not stated |
-| 2026 label only | Amazon Canada comparison | 90 tablets x 1 bottle | comparison price excluding shipping | 186 | CNY | SRC-WIDE-BONE-CN-CARD | pending_confirmation | low | non-current evidence only; source states "不含运费"; live URL shown in card but not independently checked |
-| 2026 label only | Douyin official flagship store | 90 tablets x 1 bottle | daily price | 298 | CNY | SRC-WIDE-BONE-CN-CARD | pending_confirmation | low | non-current evidence only; comparison chart evidence |
-| 2026 label only | Kuaishou official flagship store | 90 tablets x 1 bottle | daily price | 298 | CNY | SRC-WIDE-BONE-CN-CARD | pending_confirmation | low | non-current evidence only; comparison chart evidence |
-| 2026 label only | Tmall official flagship store | 90 tablets x 1 bottle | daily price | 298 | CNY | SRC-WIDE-BONE-CN-CARD | pending_confirmation | low | non-current evidence only; comparison chart evidence |
-| 2026 label only | Tmall official flagship store | 120 tablets x 1 bottle | daily campaign price | 258 | CNY | SRC-WIDE-BONE-CN-CARD | pending_confirmation | low | non-current evidence only; different pack size; do not compare directly without context |
+| not stated | source card main price block | 90 tablets x 1 bottle | retail | 298 | RMB | [[SRC-WIDE-BONE-CN-CARD]] | pending_confirmation | low | non-current evidence only; source card also lists livestream price |
+| not stated | source card main price block | 90 tablets x 1 bottle | livestream | 179 | RMB | [[SRC-WIDE-BONE-CN-CARD]] | pending_confirmation | low | non-current evidence only; campaign/platform context not stated |
+| not stated | source card main price block | 90 tablets x 2 bottles | retail | 520 | RMB | [[SRC-WIDE-BONE-CN-CARD]] | pending_confirmation | low | non-current evidence only; source card also lists livestream price |
+| not stated | source card main price block | 90 tablets x 2 bottles | livestream | 319 | RMB | [[SRC-WIDE-BONE-CN-CARD]] | pending_confirmation | low | non-current evidence only; campaign/platform context not stated |
+| not stated | source card main price block | 90 tablets x 4 bottles | retail | 900 | RMB | [[SRC-WIDE-BONE-CN-CARD]] | pending_confirmation | low | non-current evidence only; source card also lists livestream price |
+| not stated | source card main price block | 90 tablets x 4 bottles | livestream | 529 | RMB | [[SRC-WIDE-BONE-CN-CARD]] | pending_confirmation | low | non-current evidence only; campaign/platform context not stated |
+| 2026 label only | Amazon Canada comparison | 90 tablets x 1 bottle | marketplace | 186 | RMB | [[SRC-WIDE-BONE-CN-CARD]] | pending_confirmation | low | non-current evidence only; source states "不含运费"; live URL shown in card but not independently checked |
+| 2026 label only | Douyin official flagship store | 90 tablets x 1 bottle | marketplace | 298 | RMB | [[SRC-WIDE-BONE-CN-CARD]] | pending_confirmation | low | non-current evidence only; source-card comparison chart presents this as daily price evidence |
+| 2026 label only | Kuaishou official flagship store | 90 tablets x 1 bottle | marketplace | 298 | RMB | [[SRC-WIDE-BONE-CN-CARD]] | pending_confirmation | low | non-current evidence only; source-card comparison chart presents this as daily price evidence |
+| 2026 label only | Tmall official flagship store | 90 tablets x 1 bottle | marketplace | 298 | RMB | [[SRC-WIDE-BONE-CN-CARD]] | pending_confirmation | low | non-current evidence only; source-card comparison chart presents this as daily price evidence |
+| 2026 label only | Tmall official flagship store | 120 tablets x 1 bottle | campaign | 258 | RMB | [[SRC-WIDE-BONE-CN-CARD]] | pending_confirmation | low | non-current evidence only; different pack size; do not compare directly without context |
 
 ## Historical Price Snapshots
 - This section preserves non-current evidence for comparison only; it is not an approved historical price schedule.
 
 | date_observed | channel | price | currency | source_id | status | confidence | notes |
 |---|---|---:|---|---|---|---|---|
-| not stated | source card main price block | 179 | CNY | SRC-WIDE-BONE-CN-CARD | pending_confirmation | low | 90-tablet livestream price; non-current evidence only; not current quotation logic |
+| not stated | source card main price block | 179 | RMB | [[SRC-WIDE-BONE-CN-CARD]] | pending_confirmation | low | 90-tablet livestream price; non-current evidence only; not current quotation logic |
 
 ## Pricing Notes
 - All price labels below are source-card labels only; none is approved for quotation.

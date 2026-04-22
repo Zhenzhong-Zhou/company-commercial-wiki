@@ -63,3 +63,16 @@ This file records meaningful repository events:
 - Populated exact `.schema.yaml` files and aligned schema enum/page-type definitions for source notes and term entries.
 - Verified listed term registry pages against `term_entry` schema; no additional term-page changes were required.
 - Made Astaxanthin Plus and D3/K2 product links symmetric where supported by shared deck evidence.
+- Created pricing evidence pages for PG products using existing source-card evidence:
+  - `wiki/06_pricing/PRICE-ASTAXANTHIN-PLUS.md`
+  - `wiki/06_pricing/PRICE-UBIQUINOL.md`
+- Updated related source, product, pricing, and term links for graph readiness.
+- Kept PG pricing evidence as `pending_confirmation`; no undated pricing was promoted to current truth.
+- Corrected WIDE deck source filename references to match the uploaded raw file name; no source claims changed.
+- Cleaned remaining source-note section gaps and pricing enum values without finalizing unresolved prices.
+- Flagged governance follow-up:
+  - PG pricing still needs current channel/date confirmation
+  - customer-facing pricing remains review-required
+
+## Next Planned Work
+- Verify PG pricing against current channel evidence before any customer-facing quote.

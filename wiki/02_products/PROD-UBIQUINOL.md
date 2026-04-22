@@ -17,6 +17,7 @@ related_pages:
   - "[[SRC-PG-UBIQUINOL-CN-CARD]]"
   - "[[SRC-PG-PRODUCT-SHEET-EN]]"
   - "[[PROD-ASTAXANTHIN-PLUS]]"
+  - "[[PRICE-UBIQUINOL]]"
   - "[[TERM-NPN]]"
   - "[[TERM-RECOMMENDED-USE]]"
   - "[[TERM-SUGGESTED-USE]]"
@@ -101,7 +102,7 @@ PHYTO-GENIOUS Ubiquinol is listed in the source card as a Canada-made 60-softgel
 ## Internal Notes (ZH)
 - 本页仅基于指定手卡整理，不代表正式标签或合规版本。
 - 36 倍与 38.3 倍溶出度表述在同一手卡中并存，应标记为待确认。
-- 价格信息存在于手卡中，但本轮未创建该产品价格页。
+- 价格证据已单独记录在 [[PRICE-UBIQUINOL]]，但不得视为当前报价。
 
 ## Open Questions
 - 是否存在该产品的正式 NPN 编号？
@@ -113,8 +114,10 @@ PHYTO-GENIOUS Ubiquinol is listed in the source card as a Canada-made 60-softgel
 - Primary source note: [[SRC-PG-UBIQUINOL-CN-CARD]]
 - Extraction-limited related source: [[SRC-PG-PRODUCT-SHEET-EN]]
 - Related product page: [[PROD-ASTAXANTHIN-PLUS]]
+- Pricing page: [[PRICE-UBIQUINOL]]
 - Shared term pages: [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-SOFTGEL]], [[TERM-LIVESTREAM-PRICE]]
 
 ## Source Map
 - [[SRC-PG-UBIQUINOL-CN-CARD]]: PG加拿大品牌第四代共晶还原性辅酶Q10头部手卡.pptx
+- Related pricing page: [[PRICE-UBIQUINOL]]
 - Related term pages: [[TERM-NPN]], [[TERM-RECOMMENDED-USE]], [[TERM-SUGGESTED-USE]], [[TERM-SOFTGEL]], [[TERM-LIVESTREAM-PRICE]]

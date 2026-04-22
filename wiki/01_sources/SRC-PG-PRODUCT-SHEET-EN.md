@@ -19,7 +19,9 @@ native_review_required: true
 source_ids: []
 source_files:
   - PG Product Sheet EN.pdf
-linked_pages: []
+linked_pages:
+  - "[[PROD-ASTAXANTHIN-PLUS]]"
+  - "[[PROD-UBIQUINOL]]"
 tags: [source, product, marketing, phyto-genious, extraction-limited]
 ---
 
@@ -66,6 +68,12 @@ This PDF is registered as an English PHYTO-GENIOUS product sheet. In the current
 - Does the PDF support or conflict with [[PROD-ASTAXANTHIN-PLUS]] or [[PROD-UBIQUINOL]]?
 - Should this file be OCR-processed before it influences product pages?
 
+## Recommended Wiki Updates
+- Create / update product page: no product fact update from this source until OCR or visual review is completed.
+- Related product pages for future review: [[PROD-ASTAXANTHIN-PLUS]], [[PROD-UBIQUINOL]]
+- Create / update pricing page: not supported by current extraction.
+- Create / update term entry: not supported by current extraction.
+
 ## Review
 - Review required: true
 - Review reason: source body was not reliably extracted.
@@ -73,3 +81,4 @@ This PDF is registered as an English PHYTO-GENIOUS product sheet. In the current
 
 ## Source Map
 - PG Product Sheet EN.pdf
+- Extraction-limited related pages: [[PROD-ASTAXANTHIN-PLUS]], [[PROD-UBIQUINOL]]
