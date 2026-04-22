@@ -1,0 +1,143 @@
+name: common_enums
+version: 1.0
+description: >
+  Shared enum definitions for the commercial LLM Wiki.
+  This file centralizes common allowed values so schema files, pages,
+  and lint rules use consistent vocabulary.
+
+enums:
+  status:
+    description: >
+      Allowed lifecycle states for important knowledge objects and pages.
+    allowed_values:
+      - current
+      - historical
+      - conflicting
+      - pending_confirmation
+      - deprecated
+
+  source_status:
+    description: >
+      Allowed status values for source notes or source records.
+    allowed_values:
+      - current
+      - historical
+      - pending_confirmation
+      - deprecated
+
+  page_type:
+    description: >
+      Allowed page type values across the wiki.
+    allowed_values:
+      - overview
+      - registry
+      - source
+      - product
+      - material
+      - marketing
+      - translation
+      - pricing
+      - inquiry_pattern
+      - reply_template
+      - synthesis
+      - archive
+
+  source_type:
+    description: >
+      Allowed source categories for uploaded or ingested files.
+    allowed_values:
+      - brand_source
+      - product_fact_source
+      - product_marketing_source
+      - pricing_source
+      - translation_source
+      - material_source
+      - inquiry_source
+
+  confidence:
+    description: >
+      Confidence level for interpreted or normalized knowledge.
+    allowed_values:
+      - high
+      - medium
+      - low
+
+  canonical_language:
+    description: >
+      Canonical language value for structured business knowledge pages.
+    allowed_values:
+      - en
+
+  supported_languages:
+    description: >
+      Common language values supported in the project.
+    allowed_values:
+      - en
+      - zh
+
+  review_required:
+    description: >
+      Boolean-style review flag.
+    allowed_values:
+      - true
+      - false
+
+  native_review_required:
+    description: >
+      Boolean-style flag for high-risk customer-facing English requiring native review.
+    allowed_values:
+      - true
+      - false
+
+  price_type:
+    description: >
+      Common pricing evidence types.
+    allowed_values:
+      - retail
+      - livestream
+      - promo
+      - marketplace
+      - campaign
+      - unknown
+
+  domain:
+    description: >
+      Common knowledge domains for wiki pages, notes, and term entries.
+    allowed_values:
+      - product
+      - material
+      - marketing
+      - translation
+      - pricing
+      - inquiry
+      - compliance
+      - brand
+
+  market:
+    description: >
+      Typical market scope values for pricing or product context.
+    allowed_values:
+      - Canada
+      - China
+      - global
+      - unknown
+
+  currency:
+    description: >
+      Common currencies appearing in current commercial materials.
+    allowed_values:
+      - CAD
+      - RMB
+      - USD
+      - unknown
+
+usage_rules:
+  - Prefer these enum values across frontmatter, schemas, lint guidance, and page generation.
+  - Do not invent near-duplicate status or page_type values when one already exists here.
+  - If a new enum value becomes necessary, add it here first and then update dependent schemas.
+  - Keep enum values English-first even when page body content is bilingual.
+
+lint_expectations:
+  - schema files should reference enum values consistently
+  - page frontmatter should not invent unsupported status or page_type values
+  - new values should be added intentionally, not ad hoc

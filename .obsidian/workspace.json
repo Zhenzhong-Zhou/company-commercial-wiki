@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "5c1d6ffa895587b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "de92e0445829c50f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1c534a64b5c7d3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/09_term_registry/TERM-RECOMMENDED-USE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TERM-RECOMMENDED-USE"
+            }
+          },
+          {
+            "id": "c7cad9ac901a3651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/SETUP_OBSIDIAN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SETUP_OBSIDIAN"
+            }
+          },
+          {
+            "id": "9ca98122b7cd8e1c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "raw/products/PHYTO-GENIOUS/PG Product Sheet EN.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "PG Product Sheet EN"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05c167b1d2ae11c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e634358ac26c37e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f213563ffd73a17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab80063c39ba45b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "21330ada43c4f498",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4b4409edc7dd81a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0116eedd96df017e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4aed6aac40bd4b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/SETUP_OBSIDIAN.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SETUP_OBSIDIAN"
+            }
+          },
+          {
+            "id": "4f77b0a89a947c8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/SETUP_OBSIDIAN.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SETUP_OBSIDIAN"
+            }
+          },
+          {
+            "id": "5612fd1b55ba35e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "710065acb750ac0d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1d772a900f35dcdd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/SETUP_OBSIDIAN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SETUP_OBSIDIAN"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c7cad9ac901a3651",
+  "lastOpenFiles": [
+    "docs/SETUP_OBSIDIAN.md",
+    "wiki/09_term_registry/TERM-RECOMMENDED-USE.md",
+    "raw/products/PHYTO-GENIOUS/PG Product Sheet EN.pdf",
+    "logic/USER_WORKFLOWS.md",
+    "logic/schemas/common_enums.schema.yaml.md",
+    "logic/schemas/term_entry.schema.yaml.md",
+    "logic/schemas/pricing_page.schema.yaml.md",
+    "logic/schemas/product_page.schema.yaml.md",
+    "logic/schemas/source_note.schema.yaml.md",
+    "logic/schemas/knowledge_object.schema.yaml.md",
+    "wiki/08_reply_templates/TEMPLATE-CLAIM-SAFE-ENGLISH.md",
+    "wiki/01_sources/SRC-PG-UBIQUINOL-CN-CARD.md",
+    "wiki/01_sources/source_registry.md",
+    "logic/AGENTS.md",
+    "README.md",
+    "docs",
+    "logic/templates/product_page.md",
+    "wiki/09_term_registry/TERM-NPN.md",
+    "wiki/00_overview/knowledge_map.md",
+    "wiki/02_products/PROD-ASTAXANTHIN-PLUS.md",
+    "wiki/02_products/PROD-UBIQUINOL.md",
+    "wiki/09_term_registry/TERM-LIVESTREAM-PRICE.md",
+    "wiki/09_term_registry/TERM-TABLET.md",
+    "wiki/09_term_registry/TERM-SOFTGEL.md",
+    "wiki/09_term_registry/TERM-SUGGESTED-USE.md",
+    "wiki/01_sources/SRC-WIDE-BONE-CN-CARD.md",
+    "wiki/01_sources/SRC-PG-PRODUCT-SHEET-EN.md",
+    "raw/products/WIDE/WideNaturals加拿大五合一维骨力头部手卡.pptx",
+    "raw/products/WIDE/WideNaturals加拿大五合一维骨力头部手卡pptx.pptx",
+    "raw/products/PHYTO-GENIOUS/PG加拿大品牌第四代共晶还原性辅酶Q10头部手卡.pptx",
+    "raw/products/PHYTO-GENIOUS/PG加拿大品牌天然复合虾青素（plus）头部手卡.pptx",
+    "raw/brand/WIDE NATURALS DECK-ENpptx.pptx",
+    "raw/brand/WIDE NATURALS DECK-EN 1.pptx",
+    "raw/products/PHYTO-GENIOUS/PG加拿大品牌第四代共晶还原性辅酶Q10头部手卡 1.pptx",
+    "raw/products/PHYTO-GENIOUS/PG加拿大品牌天然复合虾青素（plus）头部手卡 1.pptx"
+  ]
+}
