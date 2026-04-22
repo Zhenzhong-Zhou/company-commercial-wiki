@@ -195,3 +195,66 @@ After each meaningful update:
 When unsure:
 - flag
 - do not auto-destroy content
+
+---
+
+# Maintenance lint checklists
+
+## 1. Schema compliance checklist
+
+Check:
+- required frontmatter fields are present
+- enum/status values match schema
+- page_type is consistent with the relevant schema
+- required sections are present where clearly expected
+- placeholders follow project rules
+- IDs and filenames remain consistent
+
+## 2. Pricing evidence quality checklist
+
+Check:
+- pricing is presented as evidence, not timeless truth
+- channel is explicit where relevant
+- currency is explicit where relevant
+- source traceability is present
+- date_observed is present or uncertainty is explicit
+- undated pricing is not described as current
+- review flags are present when needed
+
+## 3. Bilingual consistency checklist
+
+Check:
+- English-first metadata keys are preserved
+- bilingual business content remains structurally clear
+- canonical English and preferred Chinese are not mixed randomly
+- literal translation and business-ready wording are not conflated
+- terminology is reused consistently across term pages and product pages
+
+## 4. Graph readiness checklist
+
+Check:
+- the page links to the right related page types
+- source notes connect to downstream pages where relevant
+- product pages link to sources and terms
+- pricing pages link to products and sources
+- important pages are not isolated
+- links are meaningful, not just decorative
+- backlinks and outgoing links are both useful
+
+## 5. Customer-facing review flag checklist
+
+Check:
+- high-risk customer-facing English is marked with `native_review_required: true` where needed
+- strong claims remain clearly reviewable
+- compliance/certification wording is not left unflagged if risky
+- pricing-facing external language is reviewed appropriately
+- cleanup passes did not remove needed review flags
+
+## 6. Small post-fix verification checklist
+
+Check:
+- the intended fix actually resolved the flagged issue
+- no new schema mismatch was introduced
+- source traceability was preserved
+- valid wikilinks were preserved
+- the batch is ready for either the next pass or commit

@@ -445,8 +445,9 @@ logic/USER_WORKFLOWS.md
 
 That file contains:
 
-common prompts
-when to use them
+workflow guidance
+prompt library references
+when to use each workflow
 what files they create or update
 what to check afterward
 ## 14. Safety reminders
@@ -484,3 +485,9 @@ create pricing evidence pages where needed
 create more term pages
 improve wikilinks for graph readiness
 keep source_registry.md and log.md updated
+
+## Setup documents
+
+- `docs/PROJECT_SETUP_README.md` — full local environment and tooling setup
+- `docs/SETUP_OBSIDIAN.md` — Obsidian vault usage and navigation
+- 

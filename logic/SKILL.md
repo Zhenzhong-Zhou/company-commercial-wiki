@@ -487,3 +487,66 @@ Audit consistency and traceability across the wiki.
 ### Guardrails
 - do not auto-fix high-risk content silently
 - prefer flagging over destructive rewrite
+
+---
+
+# Schema normalization and maintenance rules
+
+## 1. Schema normalization rules
+
+- Normalize only the files explicitly listed in the prompt.
+- Do not invent missing facts to satisfy format.
+- Add missing required fields only where needed.
+- Preserve existing meaning unless a change is required for schema compliance, traceability, or risk reduction.
+- Preserve existing IDs, filenames, and valid wikilinks.
+- Do not rewrite strong existing content unless clearly necessary.
+- Use the relevant schema files under `logic/schemas/` as the structural source of truth.
+
+## 2. Placeholder rules
+
+When a field is required by schema but the real value is currently unknown:
+
+- prefer enum placeholders such as `pending_confirmation` over blank strings
+- prefer `[]` for missing list fields
+- prefer `null` for unknown scalar fields only if the schema allows it
+- do not use fake values that could be mistaken for real facts
+- do not use empty strings where a structured placeholder is safer
+
+## 3. Source traceability preservation rules
+
+- Do not remove meaningful source links during cleanup.
+- Do not convert a sourced claim into an unsourced statement.
+- If content is uncertain, preserve the uncertainty explicitly.
+- When restructuring a page, keep or improve source traceability.
+- Source notes remain the evidence anchor for downstream product, pricing, marketing, and term pages.
+
+## 4. Undated pricing rules
+
+- Do not treat undated pricing as current truth.
+- Pricing should be stored and described as evidence, not timeless fact.
+- If pricing lacks a clear observation date, mark the uncertainty explicitly.
+- Do not merge channel-specific pricing into one official price without confirmation.
+- If pricing freshness is unclear, prefer review flags and pending status over certainty language.
+
+## 5. Link-preservation rules
+
+- Do not remove valid wikilinks unless they are clearly wrong, duplicated without purpose, or unsupported by evidence.
+- When improving graph readiness, prefer meaningful links over decorative links.
+- Product pages should usually link to source notes and relevant term pages.
+- Pricing pages should usually link to related products and source notes.
+- Source notes should usually link to affected product, pricing, and term pages where relevant.
+- Term pages should be reused across multiple pages when the term is truly shared.
+- Symmetric related-page links should be used only when the relationship is genuinely justified.
+
+## 6. Review-first rules for existing batches
+
+- If a large batch already exists, prefer review-only QA before another broad update pass.
+- After a fix pass, run a smaller verification pass before declaring the batch done.
+- Use final verification before demo, publication, or commit when the batch includes pricing, customer-facing English, or schema normalization.
+
+## 7. High-risk content preservation rules
+
+- Do not strengthen claims during cleanup.
+- Do not turn marketing language into validated factual language.
+- Preserve review flags such as `review_required` and `native_review_required` where needed.
+- If customer-facing English remains strong or risky, retain or add review flags rather than softening risk through silence.
