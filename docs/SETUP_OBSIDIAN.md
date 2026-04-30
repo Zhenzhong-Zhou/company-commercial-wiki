@@ -18,6 +18,26 @@ It is not the system prompt and it is not the workflow policy file.
 
 ---
 
+## What this file is for
+
+This file teaches you how to use this project inside Obsidian.
+
+Obsidian is mainly used here for:
+
+- reading wiki pages
+- searching product and pricing information
+- clicking links between related notes
+- checking backlinks
+- viewing the knowledge graph
+- editing Markdown files when needed
+
+This file does not explain the whole business system.
+
+For the full project overview, read `README.md` first.
+For local setup and Git/tooling, read `docs/PROJECT_SETUP_README.md`.
+
+---
+
 # 1. Recommended setup model
 
 For v1, the recommended setup is:
@@ -138,8 +158,8 @@ Use it to browse:
 ## 4.2 Search
 
 Use search to find:
-- product ids
-- source note ids
+- product IDs
+- source note IDs
 - tags
 - metadata values
 - review flags
@@ -168,7 +188,17 @@ Outgoing links help verify whether a page is properly connected.
 
 ## 4.5 Graph View
 
-Graph view is useful only after there are enough explicit links.
+Graph View is useful, but it is not magic.
+
+It only becomes helpful when pages contain real links such as:
+
+```md
+[[PROD-ASTAXANTHIN-PLUS]]
+[[SRC-PG-ASTAXANTHIN-CN-CARD]]
+[[TERM-NPN]]
+```
+
+If pages are only stored in folders but do not link to each other, the graph will not show useful relationships.
 
 Important:
 - folders do not create graph relationships

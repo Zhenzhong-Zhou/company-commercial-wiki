@@ -12,6 +12,25 @@ It is for:
 
 ---
 
+## What this file is for
+
+This file explains how to set up the project on your computer.
+
+Use this guide when you need to:
+
+- create or clone the project folder
+- open the project in Obsidian
+- set up Git
+- choose an editor such as VS Code or WebStorm
+- understand how Codex or another AI coding assistant can work with the vault
+
+If you are not technical, do not worry about understanding every tool immediately.
+
+Start with Obsidian and Git basics first.
+Codex, CLI tools, and automation can come later.
+
+---
+
 # 1. Recommended working model
 
 Use the project like this:
@@ -118,6 +137,20 @@ Recommended usage:
 - IDE for editing, search, diff, and git review
 
 If using WebStorm or VS Code, open the same vault/repo folder you use in Obsidian.
+
+---
+
+## Recommended tool order
+
+For a beginner, use the tools in this order:
+
+1. Obsidian — read and navigate the vault
+2. Git — save safe checkpoints
+3. VS Code or WebStorm — edit and review files
+4. Codex or another AI assistant — help with larger maintenance tasks
+5. CLI tools — optional advanced usage
+
+You do not need all advanced tools on day one.
 
 ---
 
